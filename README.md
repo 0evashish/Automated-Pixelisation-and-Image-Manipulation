@@ -1,5 +1,3 @@
-Sure, I'll update the folder structure in the README.md as per the provided information:
-
 # Automated Pixelisation and Image Manipulation
 
 ## Description
